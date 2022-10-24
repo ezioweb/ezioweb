@@ -1,14 +1,12 @@
 <div align="center">
 <h2>Olá, seja bem vindo ao meu perfil 👋 </h2>  
-
 <br>
 <h1>
 Meu nome é <strong>Ezio R. Lorenzetti</strong> conhecido na internet como <strong>'ezioweb'</strong> 
 <br>   
 formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área desde 1995.     
 </h1>
-<br>    
-
+<br> 
 ## 📡 Sou um jovem de quase 50 anos apaixonado por tecnologia e quero entrar no mercado para contribuir por um futuro melhor!!! 💻 
 <br>
 🌱 Atualmente estudando desenvolvimento de sistemas na
@@ -44,10 +42,7 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 
 [Meditação Criativa com Renato Kublikowski](https://diadaterra.org) - Marketing   
 <br>
-
 <div>
-
-
 
 
 <!--
@@ -68,7 +63,6 @@ Here are some ideas to get you started:
 
 
 <br>
-
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezioweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -96,6 +90,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/eziolorenzetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <br>
+<hr>
 💿🎚📀 Fun fact: Já fui DJ profissional e toquei em festivais como:       
 
 Universo Paralello    
