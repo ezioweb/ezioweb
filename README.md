@@ -40,7 +40,7 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 
 [Canal Trilha orgânica](https://www.youtube.com/channel/UCcz5Ubty72K-ExbP62IAJ9w) - Marketing    
 
-[Meditação Criativa com Renato Kublikowski](https://diadaterra.org](https://meditacaocriativaoficial.com.br/) - Marketing 
+[Meditação Criativa com Renato Kublikowski](https://meditacaocriativaoficial.com.br/) - Marketing 
   
 [Projeto React](https://organomax-ezioweb.vercel.app/) - Estudos
 <br>
