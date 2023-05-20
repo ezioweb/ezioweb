@@ -31,7 +31,9 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
     
 <img height="80em" src="./psm.svg"/> 
   
-<img height="640em" src="./CTD.JPG"/>
+</br>
+  
+<img height="360em" src="./CTD.JPG"/>
 
 <br>     
 
