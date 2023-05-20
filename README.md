@@ -29,11 +29,11 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 📃 Cerfificação em Scrum Master pela [Scrum.org](https://www.scrum.org/)   
 📃 Cerfificação Professional Developr pela [Digital House Brasil](https://www.digitalhouse.com/br)
     
-<img height="80em" src="./psm.svg"/> 
+<img height="120em" src="./psm.svg"/> 
   
 </br>
   
-<img height="360em" src="./CTD.JPG"/>
+<img height="240em" src="./CTD.JPG"/>
 
 <br>     
 
@@ -45,8 +45,6 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 
 [Canal Trilha orgânica](https://www.youtube.com/channel/UCcz5Ubty72K-ExbP62IAJ9w) - Marketing    
 
-[Meditação Criativa com Renato Kublikowski](https://meditacaocriativaoficial.com.br/) - Marketing 
-  
 [Projeto React](https://organomax-ezioweb.vercel.app/) - Estudos
 <br>
 <div>
