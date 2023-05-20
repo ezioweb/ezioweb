@@ -26,7 +26,8 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 
 <br>
 
-📃 Cerfificação em Scrum Master pela [Scrum.org](https://www.scrum.org/)         
+📃 Cerfificação em Scrum Master pela [Scrum.org](https://www.scrum.org/)   
+📃 Cerfificação Professional Developr pela [Digital House Brasil](https://www.digitalhouse.com/br)
     
 <img height="80em" src="./psm.svg"/>     
 
