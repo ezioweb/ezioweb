@@ -7,7 +7,7 @@ Meu nome é <strong>Ezio R. Lorenzetti</strong> conhecido na internet como <stro
 formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área desde 1995.     
 </h1>
 <br> 
-📡 Sou um jovem de quase 50 anos apaixonado por tecnologia e quero entrar no mercado para contribuir por um futuro melhor!!! 💻 
+📡 Sou um jovem de 50 anos apaixonado por tecnologia e quero contribuir por um futuro melhor!!! 💻 
 <br>
 🌱 Atualmente estudando desenvolvimento de sistemas na
 <br> 
