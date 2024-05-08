@@ -12,6 +12,7 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 🌱 Atualmente estudando desenvolvimento de sistemas na
 <br> 
   <img height="80em" src="./logo-dh 1.svg"/>
+  <img height="80em" src="./ logo-rocketseat.JPG"/>
   <br>     
 <br>
 ⚡ Aprendendo    
