@@ -35,7 +35,7 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
   
 </br>
 
-<img height="240em" src="./psm.svg"/> 
+<img height="240em" src="./PPOC - certificado.JPG"/> 
   
 </br>
   
