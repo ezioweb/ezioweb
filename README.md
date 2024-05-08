@@ -27,9 +27,15 @@ formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área des
 <br>
 
 📃 Cerfificação em Scrum Master pela [Scrum.org](https://www.scrum.org/)   
+📃 Professional Product Owner Accredited Certified pela [AIB Institute](https://www.linkedin.com/company/aib-institute)
 📃 Cerfificação Professional Developr pela [Digital House Brasil](https://www.digitalhouse.com/br)
+
     
 <img height="120em" src="./psm.svg"/> 
+  
+</br>
+
+<img height="240em" src="./psm.svg"/> 
   
 </br>
   
