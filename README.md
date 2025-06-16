@@ -5,10 +5,9 @@
 Meu nome é <strong>Ezio R. Lorenzetti</strong> conhecido na internet como <strong>'ezioweb'</strong> 
 <br>   
 formado e com MBA em Marketing pela <strong>ESPM</strong> e atuando na área desde 1995.     
-</h1>
 <br> 
-  Atualmente fazendo gestão de projetos de desenvolvimento de softwares
-  </h1>
+Atualmente fazendo gestão de projetos de desenvolvimento de softwares
+</h1>
 📡 Sou um jovem de 50 anos apaixonado por tecnologia e quero contribuir por um futuro melhor!!! 💻 
 <br>
 🌱 Atualmente estudando desenvolvimento de sistemas na
